@@ -1,0 +1,15 @@
+[submodule "MAS"]
+	path = MAS
+	url = git@github.com:OpenMagnetics/MAS.git
+[submodule "MKF"]
+	path = MKF
+	url = git@github.com:OpenMagnetics/MKF.git
+[submodule "MVB"]
+	path = MVB
+	url = git@github.com:OpenMagnetics/MVB.git
+[submodule "WebFrontend"]
+	path = WebFrontend
+	url = git@github.com:OpenMagnetics/WebFrontend.git
+[submodule "WebBackend"]
+	path = WebBackend
+	url = git@github.com:OpenMagnetics/WebBackend.git
